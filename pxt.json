@@ -1,11 +1,12 @@
 {
-    "name": "NFC demo - Copy",
+    "name": "NFC demo - 26Nov",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "NFC": "github:DFRobot/pxt-NFCI2C#7ba87dbd1371a00c12cae089d198a841533a088b"
+        "NFC": "github:DFRobot/pxt-NFCI2C#7ba87dbd1371a00c12cae089d198a841533a088b",
+        "SSD1306_OLED": "github:tinkertanker/pxt-oled-ssd1306#v2.0.13"
     },
     "files": [
         "main.blocks",
